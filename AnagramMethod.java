@@ -23,7 +23,7 @@ public class AnagramMethod{
     }
 
     public void start() {
-        boolean b = validAnagram("kakamayka", "myakakaka");
+        boolean b = validAnagram("listen", "silent");
         System.out.println(b);
     }
 }
